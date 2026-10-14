@@ -1,0 +1,15 @@
+# test data and local runs
+data/
+local/
+census/results/
+# Python, uv
+__pycache__/
+.venv/
+# secrets
+.env
+.envrc
+# editors, agents, OS
+.claude/
+.vscode/
+.idea/
+.DS_Store

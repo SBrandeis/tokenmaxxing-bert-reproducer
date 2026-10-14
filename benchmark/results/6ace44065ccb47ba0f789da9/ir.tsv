@@ -1,0 +1,9 @@
+model	corpus	arm	instructions	in_normalize_all	load_only
+bert-base-uncased	eng_Latn	main	912876527	419242412	0
+bert-base-uncased	eng_Latn	branch	500846298	8669418	0
+bert-base-uncased	rus_Cyrl	main	853974634	309283728	0
+bert-base-uncased	rus_Cyrl	branch	585631180	42644875	0
+modernbert-base	eng_Latn	main	1609576067	5	0
+modernbert-base	eng_Latn	branch	1603112918	5	0
+modernbert-base	rus_Cyrl	main	1777781045	66714459	0
+modernbert-base	rus_Cyrl	branch	1707300509	19199324	0

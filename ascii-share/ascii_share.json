@@ -1,0 +1,38 @@
+{
+ "revision": "5f5c6524084c42a35c28c0184bea37ec2530fd7c",
+ "eng_Latn": {
+  "ascii_bytes": 0.9904,
+  "ascii_chars": 0.9966,
+  "bytes": 5247644
+ },
+ "code_mixed": {
+  "ascii_bytes": 0.9991,
+  "ascii_chars": 0.9997,
+  "bytes": 6292393
+ },
+ "rus_Cyrl": {
+  "ascii_bytes": 0.1051,
+  "ascii_chars": 0.1905,
+  "bytes": 5244145
+ },
+ "ell_Grek": {
+  "ascii_bytes": 0.1157,
+  "ascii_chars": 0.2076,
+  "bytes": 5256798
+ },
+ "ell_Grek_nfd": {
+  "ascii_bytes": 0.1052,
+  "ascii_chars": 0.1904,
+  "bytes": 5784551
+ },
+ "arb_Arab": {
+  "ascii_bytes": 0.117,
+  "ascii_chars": 0.2096,
+  "bytes": 5242931
+ },
+ "cmn_Hani": {
+  "ascii_bytes": 0.0533,
+  "ascii_chars": 0.1446,
+  "bytes": 5245713
+ }
+}

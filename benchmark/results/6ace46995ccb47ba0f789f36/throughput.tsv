@@ -1,0 +1,15 @@
+model	corpus	main_mbs	branch_mbs	speedup	ratio_min	ratio_max	same_tokens	rounds
+bert-base-uncased	eng_Latn	22.78	131.66	5.808	5.753	5.847	True	5
+bert-base-uncased	code_mixed	22.30	125.50	5.608	5.603	5.638	True	5
+bert-base-uncased	rus_Cyrl	29.14	93.94	3.223	3.210	3.241	True	5
+bert-base-uncased	ell_Grek	29.07	65.09	2.238	2.232	2.241	True	5
+bert-base-uncased	arb_Arab	29.26	81.29	2.775	2.759	2.791	True	5
+bert-base-uncased	cmn_Hani	24.68	24.79	1.005	0.999	1.016	True	5
+bert-base-uncased	ell_Grek_nfd	25.44	78.80	3.097	3.086	3.115	True	5
+modernbert-base	eng_Latn	114.94	121.67	1.059	1.054	1.064	True	5
+modernbert-base	code_mixed	40.77	90.56	2.222	2.208	2.231	True	5
+modernbert-base	rus_Cyrl	35.85	69.91	1.958	1.941	1.965	True	5
+modernbert-base	ell_Grek	77.97	95.70	1.228	1.211	1.237	True	5
+modernbert-base	arb_Arab	41.32	85.60	2.072	2.043	2.091	True	5
+modernbert-base	cmn_Hani	49.95	56.32	1.127	1.121	1.132	True	5
+modernbert-base	ell_Grek_nfd	44.40	61.29	1.378	1.375	1.395	True	5
